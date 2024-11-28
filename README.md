@@ -1,4 +1,4 @@
-English｜[简体中文](README.zh-Hans.md) | [Türkçe](README.tr.md)
+English | [繁體中文](README.zh-Hant.md) | [简体中文](README.zh-Hans.md) | [Türkçe](README.tr.md)
 
 # Awesome ABP!
 

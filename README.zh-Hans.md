@@ -1,4 +1,4 @@
-[English](https://github.com/abpframework/awesome-abp/blob/main/README.md) | 简体中文 | [Türkçe](README.tr.md)
+[English](README.md) | [繁體中文](README.zh-Hant.md) | 简体中文 | [Türkçe](README.tr.md)
 
 # Awesome ABP!
 
